@@ -3,7 +3,7 @@ module github.com/certimate-go/plugin-provider-volcengine-certcenter-purger
 go 1.27.4
 
 require (
-	github.com/certimate-go/certimate v0.4.39-0.20261117024256-d35882e429db
+	github.com/certimate-go/certimate v0.4.39-0.20261119031423-3ca654aab25d
 	github.com/hashicorp/go-plugin v1.8.0
 	github.com/samber/lo v1.53.0
 	github.com/volcengine/volcengine-go-sdk v1.2.58
@@ -18,9 +18,11 @@ require (
 	github.com/hashicorp/go-hclog v1.6.3 // indirect
 	github.com/hashicorp/yamux v0.1.2 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
+	github.com/kr/pretty v0.3.1 // indirect
 	github.com/mattn/go-colorable v0.1.16 // indirect
 	github.com/mattn/go-isatty v0.0.24 // indirect
 	github.com/oklog/run v1.1.0 // indirect
+	github.com/rogpeppe/go-internal v1.14.1 // indirect
 	github.com/volcengine/volc-sdk-golang v1.0.258 // indirect
 	golang.org/x/net v0.62.0 // indirect
 	golang.org/x/sys v0.50.0 // indirect
